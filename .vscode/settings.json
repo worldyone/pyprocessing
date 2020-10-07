@@ -1,0 +1,4 @@
+{
+    "code-runner.customCommand": "java -jar processing-py.jar sketch.py",
+    "python.linting.enabled": false
+}
